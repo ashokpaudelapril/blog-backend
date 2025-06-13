@@ -17,3 +17,6 @@ coverage/
 
 # Misc
 .DS_Store # macOS specific
+
+inserPost.js
+new-post.json
